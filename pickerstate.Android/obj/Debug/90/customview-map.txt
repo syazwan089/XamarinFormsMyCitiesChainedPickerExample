@@ -1,0 +1,50 @@
+@string/appbar_scrolling_view_behavior;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+@string/appbar_scrolling_view_behavior;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+adaptive-icon;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+alpha;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
+alpha;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
+android.support.design.widget.AppBarLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.AppBarLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+android.support.design.widget.AppBarLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
+android.support.design.widget.BottomNavigationView;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
+android.support.design.widget.CoordinatorLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+android.support.design.widget.CoordinatorLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+android.support.design.widget.CoordinatorLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
+android.support.design.widget.TabLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+android.support.design.widget.TabLayout;obj\Debug\90\res\layout\tabbar.xml
+android.support.v7.widget.RecyclerView;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\flyoutcontent.xml
+android.support.v7.widget.Toolbar;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml
+android.support.v7.widget.Toolbar;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\shellcontent.xml
+android.support.v7.widget.Toolbar;obj\Debug\90\res\layout\toolbar.xml
+attr;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+background;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+cache-path;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\90\res\values\colors.xml
+declare-styleable;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
+external-cache-path;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-path;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+foreground;obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+FrameLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
+item;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
+LinearLayout;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\bottomtablayout.xml
+paths;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\38\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+resources;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\attrs.xml
+resources;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
+resources;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
+resources;obj\Debug\90\res\values\colors.xml
+resources;obj\Debug\90\res\values\styles.xml
+set;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
+set;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromright.xml
+set;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
+set;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
+string;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\strings.xml
+style;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\values\styles.xml
+style;obj\Debug\90\res\values\styles.xml
+translate;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromleft.xml
+translate;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\enterfromright.xml
+translate;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\exittoleft.xml
+translate;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\anim\exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate.Android\obj\Debug\90\lp\39\jl\res\layout\rootlayout.xml

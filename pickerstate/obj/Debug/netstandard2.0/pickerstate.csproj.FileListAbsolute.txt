@@ -1,0 +1,14 @@
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\bin\Debug\netstandard2.0\pickerstate.deps.json
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\bin\Debug\netstandard2.0\pickerstate.dll
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\bin\Debug\netstandard2.0\ref\pickerstate.dll
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\bin\Debug\netstandard2.0\pickerstate.pdb
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\pickerstate.csprojAssemblyReference.cache
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\pickerstate.AssemblyInfoInputs.cache
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\pickerstate.AssemblyInfo.cs
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\pickerstate.csproj.CoreCompileInputs.cache
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\pickerstate.dll
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\ref\pickerstate.dll
+D:\Storage\7) Syazwan - Programmer (Work)\App-Wb\Xamarin\pickerstate\pickerstate\obj\Debug\netstandard2.0\pickerstate.pdb
